@@ -1,16 +1,13 @@
 ### Hi there 👋
 
 I'm Anjula! I'm a Software Engineer based in Sri Lanka.
-
 </br>
-
 ### Connect with me:
 </br>
 <p align="left">
 <a href="https://linkedin.com/in/anjula-paulus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjula-paulus" height="30" width="40" /></a>
 <a href="https://medium.com/@anjulapaulus_84798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anjulapaulus_84798" height="30" width="40" /></a>
 </p>
-</br>
 
 ### Languages and Tools:
 </br>
