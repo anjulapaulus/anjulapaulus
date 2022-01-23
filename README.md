@@ -4,7 +4,7 @@ I'm Anjula! I'm a Software Engineer based in Sri Lanka.
 </br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anjulapaulus&count_private=true&show_icons=true&include_all_commits=true&border_color=#FFFFFF)
-<span style="display:inline-block; width: 10px;"></span>
+<!-- <span style="display:inline-block; width: 10px;"></span> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjulapaulus&show_icons=true&theme=dynamic&count_private=truecount_private=true&hide=roff&langs_count=8&border_color=#FFFFFF)
 
 ### Languages and Tools:
